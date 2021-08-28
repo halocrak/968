@@ -1,6 +1,6 @@
 
-# Obfuscated By TAHMID RAYAT | HTR-TECH
-# Github    : https://www.github.com/htr-tech
+
+# Github    : https://www.github.com/halocrak
 # Instagram : https://instagr.am/tahmid.rayat
 # --------------------------------------------
 # Time      : Sat Aug 28 23:45:18 2021
